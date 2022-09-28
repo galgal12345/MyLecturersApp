@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyLecturersApp</string>
+    <string name="name_null">------</string>
+    <string name="language_null">------</string>
+</resources>
